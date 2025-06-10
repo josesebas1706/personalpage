@@ -1,0 +1,16 @@
+[theme]
+# Azul oscuro para elementos interactivos (botones, enlaces, etc.)
+primaryColor = "#0A84AE"  # Profesional, moderno
+
+# Color de fondo principal — gris muy claro para mejor lectura
+backgroundColor = "#F4F6F9"  # Suave y limpio
+
+# Fondo del sidebar y widgets — gris medio
+secondaryBackgroundColor = "#D0D3D4"
+
+# Texto — gris oscuro casi negro, más suave que el negro puro
+textColor = "#1C1C1C"
+
+# Fuente — cambia la fuente a algo más profesional y moderno (opcional)
+# Algunas opciones: "Inter", "Roboto", "Open Sans", "Lato"
+font = "Lato"
